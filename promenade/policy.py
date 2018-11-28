@@ -41,6 +41,7 @@ policy:
 	      paths:
 		      - name: '/api/v1.0/node-labels/{node_name}'
 		        method: 'PUT'
+
 '''
 
 import os
